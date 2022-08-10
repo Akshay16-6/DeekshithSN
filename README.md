@@ -1,4 +1,4 @@
-## Hi there, I'm Deekshith SN 👋
+## Hi there, I'm Akshay 👋
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 - 🔭 I’m currently working on a Creating Devops related tech resourses 
